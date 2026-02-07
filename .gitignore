@@ -1,7 +1,8 @@
-node_modules/ # If using any JS tools
-.DS_Store
-*.xcuserdata
+# Xcode user settings
+xcuserdata/
+*.xcuserdatad
+*.xcuserstate
+
+# Build artifacts
 DerivedData/
-*.xcuserdata
-DerivedData/
-.DS_Store
+build/
