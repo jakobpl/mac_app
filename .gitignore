@@ -1,0 +1,7 @@
+node_modules/ # If using any JS tools
+.DS_Store
+*.xcuserdata
+DerivedData/
+*.xcuserdata
+DerivedData/
+.DS_Store
